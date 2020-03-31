@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "divide_array_in_sets_of_k_consecutive_numbers/1.0.0": {
+        "runtime": {
+          "divide_array_in_sets_of_k_consecutive_numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "divide_array_in_sets_of_k_consecutive_numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
