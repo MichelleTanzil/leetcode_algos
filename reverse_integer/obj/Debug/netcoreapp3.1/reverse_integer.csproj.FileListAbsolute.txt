@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\obj\Debug\netcoreapp3.1\reverse_integer.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\obj\Debug\netcoreapp3.1\reverse_integer.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\obj\Debug\netcoreapp3.1\reverse_integer.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\obj\Debug\netcoreapp3.1\reverse_integer.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\bin\Debug\netcoreapp3.1\reverse_integer.exe
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\bin\Debug\netcoreapp3.1\reverse_integer.deps.json
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\bin\Debug\netcoreapp3.1\reverse_integer.runtimeconfig.json
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\bin\Debug\netcoreapp3.1\reverse_integer.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\bin\Debug\netcoreapp3.1\reverse_integer.dll
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\bin\Debug\netcoreapp3.1\reverse_integer.pdb
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\obj\Debug\netcoreapp3.1\reverse_integer.dll
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\obj\Debug\netcoreapp3.1\reverse_integer.pdb
+C:\Users\MTanzil\Documents\leetcode_algos\reverse_integer\obj\Debug\netcoreapp3.1\reverse_integer.genruntimeconfig.cache
