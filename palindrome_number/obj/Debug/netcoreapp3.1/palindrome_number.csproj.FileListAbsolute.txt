@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\bin\Debug\netcoreapp3.1\palindrome_number.exe
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\bin\Debug\netcoreapp3.1\palindrome_number.deps.json
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\bin\Debug\netcoreapp3.1\palindrome_number.runtimeconfig.json
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\bin\Debug\netcoreapp3.1\palindrome_number.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\bin\Debug\netcoreapp3.1\palindrome_number.dll
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\bin\Debug\netcoreapp3.1\palindrome_number.pdb
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\obj\Debug\netcoreapp3.1\palindrome_number.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\obj\Debug\netcoreapp3.1\palindrome_number.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\obj\Debug\netcoreapp3.1\palindrome_number.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\obj\Debug\netcoreapp3.1\palindrome_number.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\obj\Debug\netcoreapp3.1\palindrome_number.dll
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\obj\Debug\netcoreapp3.1\palindrome_number.pdb
+C:\Users\MTanzil\Documents\leetcode_algos\palindrome_number\obj\Debug\netcoreapp3.1\palindrome_number.genruntimeconfig.cache
