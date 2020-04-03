@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\obj\Debug\netcoreapp3.1\single_number.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\obj\Debug\netcoreapp3.1\single_number.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\obj\Debug\netcoreapp3.1\single_number.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\obj\Debug\netcoreapp3.1\single_number.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\bin\Debug\netcoreapp3.1\single_number.exe
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\bin\Debug\netcoreapp3.1\single_number.deps.json
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\bin\Debug\netcoreapp3.1\single_number.runtimeconfig.json
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\bin\Debug\netcoreapp3.1\single_number.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\bin\Debug\netcoreapp3.1\single_number.dll
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\bin\Debug\netcoreapp3.1\single_number.pdb
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\obj\Debug\netcoreapp3.1\single_number.dll
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\obj\Debug\netcoreapp3.1\single_number.pdb
+C:\Users\MTanzil\Documents\leetcode_algos\single_number\obj\Debug\netcoreapp3.1\single_number.genruntimeconfig.cache
