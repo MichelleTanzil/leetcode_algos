@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\happy_number\bin\Debug\netcoreapp3.1\happy_number.exe
+C:\Users\MTanzil\Documents\happy_number\bin\Debug\netcoreapp3.1\happy_number.deps.json
+C:\Users\MTanzil\Documents\happy_number\bin\Debug\netcoreapp3.1\happy_number.runtimeconfig.json
+C:\Users\MTanzil\Documents\happy_number\bin\Debug\netcoreapp3.1\happy_number.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\happy_number\bin\Debug\netcoreapp3.1\happy_number.dll
+C:\Users\MTanzil\Documents\happy_number\bin\Debug\netcoreapp3.1\happy_number.pdb
+C:\Users\MTanzil\Documents\happy_number\obj\Debug\netcoreapp3.1\happy_number.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\happy_number\obj\Debug\netcoreapp3.1\happy_number.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\happy_number\obj\Debug\netcoreapp3.1\happy_number.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\happy_number\obj\Debug\netcoreapp3.1\happy_number.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\happy_number\obj\Debug\netcoreapp3.1\happy_number.dll
+C:\Users\MTanzil\Documents\happy_number\obj\Debug\netcoreapp3.1\happy_number.pdb
+C:\Users\MTanzil\Documents\happy_number\obj\Debug\netcoreapp3.1\happy_number.genruntimeconfig.cache
