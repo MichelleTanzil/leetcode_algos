@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\maximum_subarray\obj\Debug\netcoreapp3.1\maximum_subarray.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\maximum_subarray\obj\Debug\netcoreapp3.1\maximum_subarray.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\maximum_subarray\obj\Debug\netcoreapp3.1\maximum_subarray.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\maximum_subarray\obj\Debug\netcoreapp3.1\maximum_subarray.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\maximum_subarray\bin\Debug\netcoreapp3.1\maximum_subarray.exe
+C:\Users\MTanzil\Documents\maximum_subarray\bin\Debug\netcoreapp3.1\maximum_subarray.deps.json
+C:\Users\MTanzil\Documents\maximum_subarray\bin\Debug\netcoreapp3.1\maximum_subarray.runtimeconfig.json
+C:\Users\MTanzil\Documents\maximum_subarray\bin\Debug\netcoreapp3.1\maximum_subarray.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\maximum_subarray\bin\Debug\netcoreapp3.1\maximum_subarray.dll
+C:\Users\MTanzil\Documents\maximum_subarray\bin\Debug\netcoreapp3.1\maximum_subarray.pdb
+C:\Users\MTanzil\Documents\maximum_subarray\obj\Debug\netcoreapp3.1\maximum_subarray.dll
+C:\Users\MTanzil\Documents\maximum_subarray\obj\Debug\netcoreapp3.1\maximum_subarray.pdb
+C:\Users\MTanzil\Documents\maximum_subarray\obj\Debug\netcoreapp3.1\maximum_subarray.genruntimeconfig.cache
