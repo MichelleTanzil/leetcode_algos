@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\obj\Debug\netcoreapp3.1\move_zeros.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\obj\Debug\netcoreapp3.1\move_zeros.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\obj\Debug\netcoreapp3.1\move_zeros.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\obj\Debug\netcoreapp3.1\move_zeros.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\bin\Debug\netcoreapp3.1\move_zeros.exe
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\bin\Debug\netcoreapp3.1\move_zeros.deps.json
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\bin\Debug\netcoreapp3.1\move_zeros.runtimeconfig.json
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\bin\Debug\netcoreapp3.1\move_zeros.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\bin\Debug\netcoreapp3.1\move_zeros.dll
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\bin\Debug\netcoreapp3.1\move_zeros.pdb
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\obj\Debug\netcoreapp3.1\move_zeros.dll
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\obj\Debug\netcoreapp3.1\move_zeros.pdb
+C:\Users\MTanzil\Documents\leetcode_algos\move_zeros\obj\Debug\netcoreapp3.1\move_zeros.genruntimeconfig.cache
