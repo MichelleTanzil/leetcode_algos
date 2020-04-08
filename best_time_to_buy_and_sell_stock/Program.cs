@@ -14,7 +14,6 @@ namespace best_time_to_buy_and_sell_stock
           maxProfit += prices[i] - prices[i - 1];
         }
       }
-cd
       return maxProfit;
     }
     static void Main(string[] args)
