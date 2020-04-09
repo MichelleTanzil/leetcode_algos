@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\group_anagrams\obj\Debug\netcoreapp3.1\group_anagrams.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\group_anagrams\obj\Debug\netcoreapp3.1\group_anagrams.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\group_anagrams\obj\Debug\netcoreapp3.1\group_anagrams.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\group_anagrams\obj\Debug\netcoreapp3.1\group_anagrams.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\group_anagrams\bin\Debug\netcoreapp3.1\group_anagrams.exe
+C:\Users\MTanzil\Documents\group_anagrams\bin\Debug\netcoreapp3.1\group_anagrams.deps.json
+C:\Users\MTanzil\Documents\group_anagrams\bin\Debug\netcoreapp3.1\group_anagrams.runtimeconfig.json
+C:\Users\MTanzil\Documents\group_anagrams\bin\Debug\netcoreapp3.1\group_anagrams.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\group_anagrams\bin\Debug\netcoreapp3.1\group_anagrams.dll
+C:\Users\MTanzil\Documents\group_anagrams\bin\Debug\netcoreapp3.1\group_anagrams.pdb
+C:\Users\MTanzil\Documents\group_anagrams\obj\Debug\netcoreapp3.1\group_anagrams.dll
+C:\Users\MTanzil\Documents\group_anagrams\obj\Debug\netcoreapp3.1\group_anagrams.pdb
+C:\Users\MTanzil\Documents\group_anagrams\obj\Debug\netcoreapp3.1\group_anagrams.genruntimeconfig.cache
