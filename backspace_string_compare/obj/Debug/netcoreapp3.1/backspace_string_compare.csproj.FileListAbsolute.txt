@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\backspace_string_compare\obj\Debug\netcoreapp3.1\backspace_string_compare.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\backspace_string_compare\obj\Debug\netcoreapp3.1\backspace_string_compare.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\backspace_string_compare\obj\Debug\netcoreapp3.1\backspace_string_compare.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\backspace_string_compare\obj\Debug\netcoreapp3.1\backspace_string_compare.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\backspace_string_compare\bin\Debug\netcoreapp3.1\backspace_string_compare.exe
+C:\Users\MTanzil\Documents\backspace_string_compare\bin\Debug\netcoreapp3.1\backspace_string_compare.deps.json
+C:\Users\MTanzil\Documents\backspace_string_compare\bin\Debug\netcoreapp3.1\backspace_string_compare.runtimeconfig.json
+C:\Users\MTanzil\Documents\backspace_string_compare\bin\Debug\netcoreapp3.1\backspace_string_compare.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\backspace_string_compare\bin\Debug\netcoreapp3.1\backspace_string_compare.dll
+C:\Users\MTanzil\Documents\backspace_string_compare\bin\Debug\netcoreapp3.1\backspace_string_compare.pdb
+C:\Users\MTanzil\Documents\backspace_string_compare\obj\Debug\netcoreapp3.1\backspace_string_compare.dll
+C:\Users\MTanzil\Documents\backspace_string_compare\obj\Debug\netcoreapp3.1\backspace_string_compare.pdb
+C:\Users\MTanzil\Documents\backspace_string_compare\obj\Debug\netcoreapp3.1\backspace_string_compare.genruntimeconfig.cache
