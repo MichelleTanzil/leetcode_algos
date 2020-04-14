@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\last_stone_weight\obj\Debug\netcoreapp3.1\last_stone_weight.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\last_stone_weight\obj\Debug\netcoreapp3.1\last_stone_weight.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\last_stone_weight\obj\Debug\netcoreapp3.1\last_stone_weight.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\last_stone_weight\obj\Debug\netcoreapp3.1\last_stone_weight.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\last_stone_weight\bin\Debug\netcoreapp3.1\last_stone_weight.exe
+C:\Users\MTanzil\Documents\last_stone_weight\bin\Debug\netcoreapp3.1\last_stone_weight.deps.json
+C:\Users\MTanzil\Documents\last_stone_weight\bin\Debug\netcoreapp3.1\last_stone_weight.runtimeconfig.json
+C:\Users\MTanzil\Documents\last_stone_weight\bin\Debug\netcoreapp3.1\last_stone_weight.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\last_stone_weight\bin\Debug\netcoreapp3.1\last_stone_weight.dll
+C:\Users\MTanzil\Documents\last_stone_weight\bin\Debug\netcoreapp3.1\last_stone_weight.pdb
+C:\Users\MTanzil\Documents\last_stone_weight\obj\Debug\netcoreapp3.1\last_stone_weight.dll
+C:\Users\MTanzil\Documents\last_stone_weight\obj\Debug\netcoreapp3.1\last_stone_weight.pdb
+C:\Users\MTanzil\Documents\last_stone_weight\obj\Debug\netcoreapp3.1\last_stone_weight.genruntimeconfig.cache
